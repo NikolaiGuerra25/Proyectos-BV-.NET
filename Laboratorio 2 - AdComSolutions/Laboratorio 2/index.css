@@ -1,0 +1,147 @@
+﻿* {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: #333344;
+}
+.parrafo1{
+    text-align: center;
+    color: white;
+}
+
+.parrafo2{
+    text-align: center;
+    color: white;
+}
+
+.caja1 {
+    border: 2px solid #CCD6D0;
+    border-radius: 5px;
+    color: white;
+    width: 360px;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 200px;
+    padding: 10px;
+    box-shadow: 7px 7px 20px 10px #141421;
+}
+
+.caja2 {
+    border: 2px solid #CCD6D0;
+    border-radius: 5px;
+    color: white;
+    width: 360px;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 175px;
+    padding: 10px;
+    box-shadow: 7px 7px 20px 10px #141421;
+}
+
+.box{
+    overflow:hidden;
+    display: flex;
+    align-items: center;
+    flex-direction:row;
+    height: 230px;
+}
+
+.imagen {
+    width: 175px;
+    height: 175px;
+    background-color: #CCD6D0;
+}
+
+.tit {
+    background-color: #CCD6D0; 
+    color: white;
+    float: left;
+    margin-left: 75px;
+    font-size: 20px;
+    text-shadow: 10px 10px 10px #141421;
+}
+
+.logo{
+    float:left;
+    margin-left:30px
+}
+
+.bigbox {
+    background-color: #CCD6D0;
+    align-items: center;
+    height: 186px;
+    padding: 10px;
+    box-shadow: 7px 7px 20px 10px #141421;
+    border: 2px solid #141421;
+    border-radius: 5px;
+}
+
+.visionTitulo {
+    text-decoration:underline;
+}
+
+.misionTitulo{
+    text-decoration:underline;
+}
+
+.encabezado {
+    padding: 10px;
+    box-shadow: 7px 7px 20px 10px #141421;
+    border: 2px solid #CCD6D0;
+    border-radius: 5px;
+    color: white;
+    margin: 10px;
+    font-size: 17px;
+}
+
+.boton {
+    color: white;
+    border: 2px solid #CCD6D0;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 5px 5px 7px 5px #141421;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: gold;
+    transition:color 199ms;
+}
+
+.correo:hover {
+    color: #FFAE00;
+    transition: color 199ms;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    background-color: #CCD6D0;
+    color: gold;
+    font-size: 45px;
+}
+
+h2 {
+    background-color: #CCD6D0;
+}
+
+.piepag {
+    background-color: #CCD6D0;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 7px 7px 20px 10px #141421;
+}
+.correo {
+    background-color: #CCD6D0;
+    color: black;
+    text-decoration: none;
+}

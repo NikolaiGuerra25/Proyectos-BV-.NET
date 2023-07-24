@@ -1,0 +1,63 @@
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\ExamenSemestral - XoanT-Nikolai G.dll.config
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\ExamenSemestral - XoanT-Nikolai G.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\ExamenSemestral - XoanT-Nikolai G.pdb
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\ExamenSemestral - XoanT-Nikolai G.xml
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\csc.exe
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\csc.exe.config
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\csc.rsp
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\csi.exe
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\csi.exe.config
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\csi.rsp
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.AppContext.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Console.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.IO.Compression.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Net.Http.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Net.Sockets.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.ValueTuple.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Xml.XPath.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\vbc.exe
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\vbc.exe.config
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\vbc.rsp
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\VBCSCompiler.exe
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\obj\Debug\ExamenSemestral - XoanT-Nikolai G.vbproj.AssemblyReference.cache
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\obj\Debug\ExamenSemestral___XoanT_Nikolai_G.Resources.resources
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\obj\Debug\ExamenSemestral - XoanT-Nikolai G.vbproj.GenerateResource.cache
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\obj\Debug\ExamenSemestral - XoanT-Nikolai G.vbproj.CoreCompileInputs.cache
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\obj\Debug\ExamenSemestral - XoanT-Nikolai G.vbproj.CopyComplete
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\obj\Debug\ExamenSemestral - XoanT-Nikolai G.dll
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\obj\Debug\ExamenSemestral - XoanT-Nikolai G.xml
+C:\Users\xoant\Documents\Materias\HCI\Proyectos\ExamenSemestral - XoanT-Nikolai G\ExamenSemestral - XoanT-Nikolai G\obj\Debug\ExamenSemestral - XoanT-Nikolai G.pdb

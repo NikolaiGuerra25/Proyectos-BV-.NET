@@ -1,0 +1,72 @@
+﻿* {
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+    *:focus {
+        outline: none;
+    }
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('../assets/background grande.jpg');
+    padding: 50px;
+}
+
+.consulta_form1 {
+    padding: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.consulta_form {
+    margin-top: 0px;
+}
+
+.btn {
+    border: 2px solid transparent;
+    background: #FFC800;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px 0;
+    text-decoration: none;
+    text-shadow: none;
+    border-radius: 20px;
+    box-shadow: none;
+    transition: 0.25s;
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+}
+
+    .btn:hover {
+        background-color: #D9AA00;
+    }
+
+.titulo {
+    font-size: 100px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    color: #ffffff;
+    background-color: #262074;
+    
+    border: 5px solid #FFC800;
+}
+
+
+
+#Label1 {
+    color: #fff;
+}
+
+#Label2 {
+    color: #fff;
+}
+
+#Label3 {
+    color: #fff;
+}

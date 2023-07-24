@@ -1,0 +1,95 @@
+﻿.imagen {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+.sub {
+    color: black;
+    text-align: center;
+}
+
+* {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.pdf{
+    height:50px;
+    width:50px;
+}
+
+.mod {
+    margin:10px;
+}
+
+.contenido{
+    margin:24px;
+}
+
+.descarga {
+    margin:50px;
+}
+
+.copy{
+    margin:30px;
+    width:200px;
+}
+
+.boton{
+   margin:30px;
+}
+
+.encabezado {
+    background-color: mediumseagreen;
+}
+
+.logo {
+    height: 350px;
+    width: 500px;
+}
+
+.titulo {
+    border: mediumseagreen;
+    background-color: mediumseagreen;
+    justify-content: center;
+    text-align: center;
+}
+
+.mod1{
+    background-color:lightgreen;
+}
+
+.mod2 {
+    background-color: mediumseagreen;
+}
+
+.mod3 {
+    background-color: lightgreen;
+}
+
+body {
+    background-color: #BEFFF4;
+}
+
+footer {
+    text-align: center;
+    font-size: 35px;
+    border-radius: 20px;
+    color: #ffffff;
+    margin: 1%;
+    background-color: mediumseagreen;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    padding-bottom: 100px;
+}

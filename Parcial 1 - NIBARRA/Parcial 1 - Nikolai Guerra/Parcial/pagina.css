@@ -1,0 +1,136 @@
+﻿body {
+    background-image: url('imagenesSecciones/ITAINNOVA-Ventajas-Aplicaciones-Blockchain-Maquinaria.png');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 90rem;
+}
+
+* {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.parrafo1 {
+    text-align: center;
+    color: white;
+}
+
+.caja1 {
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    width: 360px;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 200px;
+    padding: 10px;
+    box-shadow: 7px 7px 20px 10px #012D98;
+}
+
+.caja2 {
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    width: 360px;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 175px;
+    padding: 10px;
+    box-shadow: 7px 7px 20px 10px #012D98;
+}
+
+.caja3 {
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    width: 360px;
+    margin-left: 560px;
+    padding: 10px;
+    box-shadow: 7px 7px 20px 10px #012D98;
+    width: 220px;
+}
+
+.box {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    height: 230px;
+}
+
+.imagen {
+    width: 175px;
+    height: 175px;
+}
+
+.encabezado {
+    padding: 10px;
+    margin: 10px;
+    font-size: 17px;
+}
+
+.boton {
+    padding: 10px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #FF8484;
+    transition: color 199ms;
+}
+
+.link1:hover {
+    color: red;
+    transition: color 199ms;
+}
+
+.correo:hover {
+    color: #FF8484;
+    transition: color 199ms;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.link1 {
+    color: black;
+    text-decoration: none;
+}
+
+
+.correo {
+    color: white;
+    text-decoration: none;
+}
+
+.seccion {
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.iconitos {
+    width: 35px;
+    height: 35px;
+}
+
+.iconitos1 {
+    width: 29px;
+    height: 29px;
+}
+
+.imgcheems{
+    
+    display: flex;
+    justify-content: center;
+}

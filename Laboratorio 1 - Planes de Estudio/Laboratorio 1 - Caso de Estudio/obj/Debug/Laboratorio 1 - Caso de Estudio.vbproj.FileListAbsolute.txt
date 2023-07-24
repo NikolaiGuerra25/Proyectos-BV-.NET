@@ -1,0 +1,63 @@
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\Laboratorio 1 - Caso de Estudio.dll.config
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\Laboratorio 1 - Caso de Estudio.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\Laboratorio 1 - Caso de Estudio.pdb
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\Laboratorio 1 - Caso de Estudio.xml
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\csc.exe
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\csc.exe.config
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\csc.rsp
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\csi.exe
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\csi.exe.config
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\csi.rsp
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.AppContext.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Console.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.IO.Compression.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Net.Http.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.ValueTuple.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\vbc.exe
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\vbc.exe.config
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\vbc.rsp
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\VBCSCompiler.exe
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\obj\Debug\Laboratorio 1 - Caso de Estudio.vbproj.AssemblyReference.cache
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\obj\Debug\Laboratorio_1___Caso_de_Estudio.Resources.resources
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\obj\Debug\Laboratorio 1 - Caso de Estudio.vbproj.GenerateResource.cache
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\obj\Debug\Laboratorio 1 - Caso de Estudio.vbproj.CoreCompileInputs.cache
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\obj\Debug\Laboratorio 1 - Caso de Estudio.vbproj.CopyComplete
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\obj\Debug\Laboratorio 1 - Caso de Estudio.dll
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\obj\Debug\Laboratorio 1 - Caso de Estudio.xml
+C:\Users\raul-\source\repos\Laboratorio 1 - Caso de Estudio\obj\Debug\Laboratorio 1 - Caso de Estudio.pdb

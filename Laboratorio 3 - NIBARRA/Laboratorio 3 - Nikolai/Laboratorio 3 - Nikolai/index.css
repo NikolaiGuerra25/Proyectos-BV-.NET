@@ -1,0 +1,110 @@
+﻿body {
+    background-image: url('fondo/circuito-tecnologico-azul-morado_73426-205.jpg');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 100rem;
+}
+
+*{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.tablalogin{
+    margin:auto;
+}
+
+.piepag {
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid white;
+    text-align: center;
+    box-shadow: 7px 7px 20px 10px #012D98;
+    color: white;
+}
+
+.avatar {
+    width: 160px;
+    height: 110px;
+    text-align: center;
+    margin-left: 80px;
+}
+
+.h10 {
+    text-align: center;
+    color: #E7FEAB;
+    font-size: 50px;
+    text-decoration: underline
+}
+
+#form1{
+    background-image: url(https://media0.giphy.com/media/BHNfhgU63qrks/giphy.gif?cid=ecf05e47tmiutrk7c1jk35o3gzu9javtp3ac66fxkq1tvpdu&rid=giphy.gif&ct=g);
+    margin-top: 200px;
+    margin-bottom: 75px;
+    margin-left: 445px;
+    padding: 30px;
+    width: 25%;
+    border-radius: 50px;
+}
+
+.icon {
+    min-width: 2x;
+    text-align: center;
+}
+
+.textoA {
+    magin-top: 30px;
+    magin-bottom: 30 px;
+    text-align: center;
+}
+
+#Button1{
+    border: none;
+    width: 70%;
+    color: #E7FEAB;
+    background: #AC4977;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 5px 10px;
+    magin-bottom: 30 px;
+    letter-spacing:1px;
+    overflow:hidden;
+    transition:0.2s;
+}
+
+
+.registro{
+    text-align:center;
+    color:red;
+}
+
+.link1:hover {
+    color: blue;
+    transition: color 199ms;
+}
+
+.link1 {
+    color: #0995E2;
+    text-decoration: underline;
+}
+
+.piepag {
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid white;
+    text-align: center;
+    box-shadow: 7px 7px 20px 10px #012D98;
+    color: white;
+}
+
+.correo {
+    color: white;
+    text-decoration: none;
+}
+
+.correo:hover {
+    color: #FF8484;
+    transition: color 199ms;
+}
+

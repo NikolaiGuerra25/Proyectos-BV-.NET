@@ -1,0 +1,23 @@
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\csc.exe
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\vbc.exe
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\VBCSCompiler.exe
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\Taller 2 - Nikolai Guerra.dll.config
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\Taller 2 - Nikolai Guerra.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\Taller 2 - Nikolai Guerra.pdb
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\Taller 2 - Nikolai Guerra.xml
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\obj\Debug\Taller 2 - Nikolai Guerra.vbprojResolveAssemblyReference.cache
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\obj\Debug\Taller_2___Nikolai_Guerra.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\obj\Debug\Taller 2 - Nikolai Guerra.vbproj.GenerateResource.Cache
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\obj\Debug\Taller 2 - Nikolai Guerra.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\obj\Debug\Taller 2 - Nikolai Guerra.xml
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Talleres\Taller 2\Taller 2 - Nikolai Guerra\Taller 2 - Nikolai Guerra\obj\Debug\Taller 2 - Nikolai Guerra.pdb

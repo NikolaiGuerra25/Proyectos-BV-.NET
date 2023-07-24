@@ -1,0 +1,24 @@
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\csc.exe
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\vbc.exe
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\VBCSCompiler.exe
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\Laboratorio 3 - Nikolai.dll.config
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\Laboratorio 3 - Nikolai.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\Laboratorio 3 - Nikolai.pdb
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\Laboratorio 3 - Nikolai.xml
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio 3 - Nikolai.vbprojResolveAssemblyReference.cache
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio_3___Nikolai.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio 3 - Nikolai.vbproj.GenerateResource.Cache
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio 3 - Nikolai.dll
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio 3 - Nikolai.xml
+C:\Users\nikol\OneDrive\Documentos\Interaccion Humano Computador (HCI)\Laboratorios\Laboratorio 3\Laboratorio 3 - Nikolai\Laboratorio 3 - Nikolai\obj\Debug\Laboratorio 3 - Nikolai.pdb

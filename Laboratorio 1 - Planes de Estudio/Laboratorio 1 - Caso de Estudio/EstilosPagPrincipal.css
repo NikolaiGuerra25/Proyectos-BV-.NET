@@ -1,0 +1,86 @@
+﻿.imagen {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    text-align: center;
+}
+
+.lista{
+    font-size: 18px;
+    text-decoration:none;
+}
+
+.lista a{
+    text-decoration: none;
+    margin: 25px;
+ }
+
+    .lista :hover {
+        background-color: lightgrey;
+        transition-delay: 100ms;
+    }
+
+.diplo{
+    margin:20px;
+    font-size: 19px;
+   background-color:mediumseagreen;
+}
+
+*{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.UCH-copyright text-center py-3 a {
+    text-decoration: none;
+    
+}
+
+.encabezado {
+    background-color: mediumseagreen;
+}
+
+.logo {
+    height: 350px;
+    width: 500px;
+}
+
+.UCH-copyright text-center py-3 {
+    margin: 30px;
+ 
+}
+
+body {
+    background-color: #BEFFF4;
+}
+
+footer {
+    text-align: center;
+    font-size: 35px;
+    border-radius: 20px;
+    color: #ffffff;
+    margin: 1%;
+    background-color: mediumseagreen;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    padding-bottom: 100px;
+}
+
+
+.copy p{
+    text-align: center;
+}
+
+.copy{
+    width: 100%;
+}
